@@ -1,15 +1,13 @@
-// Import the necessary React libraries and components
+// Import necessary modules
 import React from 'react';
 
-// Main App component
+// Define the App component
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Welcome to React</h1>
-      </header>
-    </div>
-  );
+    return (
+        <div>
+            <h1>Hello, World!</h1>
+        </div>
+    );
 }
 
 // Export the App component
